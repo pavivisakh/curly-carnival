@@ -8,3 +8,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] List syntax is required
 - [x] This item is complete
 - [X] This item is not complete
+- [X] Turn on GitHub Pages
+- [X] Outline my portfolio
+- [X] Introduce myself to the world
