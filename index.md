@@ -5,3 +5,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] List syntax is required
+- [x] This item is complete
+- [X] This item is not complete
